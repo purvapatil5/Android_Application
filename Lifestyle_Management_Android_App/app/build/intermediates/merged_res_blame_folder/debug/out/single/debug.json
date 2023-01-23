@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_routine_page.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_routine_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout-w1240dp_activity_login.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout-w1240dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout-land_add_breaks_dialog.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout-land\\add_breaks_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout-w936dp_activity_login.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout-w936dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_recycler_view_items.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\recycler_view_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_breaks_page.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_breaks_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_landing_page.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_alarm_broadcast.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_alarm_broadcast.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_create_acc_activity.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\create_acc_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_edit_break_dialog.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\edit_break_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lifestyle_management.app-merged_res-33:/layout_activity_landing_page.xml.flat",
+        "source": "com.example.lifestyle_management.app-main-35:/layout/activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_generate_notification.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_generate_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_add_breaks_dialog.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\add_breaks_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_current_date_page.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_current_date_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\layout_activity_create_account_page.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout\\activity_create_account_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\xml\\data_extraction_rules.xml"
+    }
+]

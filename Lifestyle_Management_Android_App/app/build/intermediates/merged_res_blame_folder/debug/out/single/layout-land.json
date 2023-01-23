@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-mergeDebugResources-32:\\layout-land\\add_breaks_dialog.xml",
+        "source": "C:\\Users\\sree1159\\.gradle\\daemon\\7.4\\com.example.lifestyle_management.app-main-35:\\layout-land\\add_breaks_dialog.xml"
+    },
+    {
+        "merged": "com.example.lifestyle_management.app-mergeDebugResources-32:/layout-land/add_breaks_dialog.xml",
+        "source": "com.example.lifestyle_management.app-main-35:/layout-land/add_breaks_dialog.xml"
+    }
+]

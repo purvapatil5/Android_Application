@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lifestyle_management.app-mergeDebugResources-31:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sree1159\\Documents\\Life-style-management\\03-prototype-lifestyle_management\\Lifestyle_Management\\Lifestyle_Management\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/create_account"
+        android:layout_height="57dp"
+        android:layout_marginTop="82dp"
+        android:gravity="center"
+        android:text="Create Account"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"/>
+
+    <EditText
+        android:id="@+id/full_name"
+        android:hint="Full Name"
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"/>
+    <EditText
+        android:id="@+id/email"
+        android:hint="Enter Email Address"
+        app:passwordToggleEnabled="true"
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"/>
+    <EditText
+        android:id="@+id/confirm_password"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"/>
+
+    <Button
+        android:id="@+id/create_submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="82dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginBottom="32dp"
+
+        android:text="Submit" />
+
+
+</LinearLayout>

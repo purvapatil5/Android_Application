@@ -1,0 +1,206 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lifestyle_management"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+11-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:6:22-75
+13
+14    <application
+14-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:9:5-95:19
+15        android:allowBackup="true"
+15-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.8.0] C:\Users\sree1159\.gradle\caches\transforms-3\28a1708219c3158e49b329d141e5cfff\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+17        android:dataExtractionRules="@xml/data_extraction_rules"
+17-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:11:9-65
+18        android:debuggable="true"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:12:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:13:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:14:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:15:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:16:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.Lifestyle_Management" >
+25-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:17:9-58
+26        <activity
+26-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:19:9-25:20
+27            android:name="com.example.lifestyle_management.GenerateNotification"
+27-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:20:13-49
+28            android:exported="false" >
+28-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:21:13-37
+29            <meta-data
+29-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+30                android:name="android.app.lib_name"
+30-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+31                android:value="" />
+31-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+32        </activity>
+33        <activity
+33-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:26:9-32:20
+34            android:name="com.example.lifestyle_management.AlarmBroadcast"
+34-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:27:13-43
+35            android:exported="false" >
+35-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:28:13-37
+36            <meta-data
+36-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+37                android:name="android.app.lib_name"
+37-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+38                android:value="" />
+38-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+39        </activity>
+40        <activity
+40-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:33:9-39:20
+41            android:name="com.example.lifestyle_management.RoutinePage"
+41-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:34:13-40
+42            android:exported="false" >
+42-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:35:13-37
+43            <meta-data
+43-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+44                android:name="android.app.lib_name"
+44-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+45                android:value="" />
+45-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+46        </activity>
+47        <activity
+47-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:40:9-46:20
+48            android:name="com.example.lifestyle_management.BreaksPage"
+48-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:41:13-39
+49            android:exported="false" >
+49-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:42:13-37
+50            <meta-data
+50-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+51                android:name="android.app.lib_name"
+51-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+52                android:value="" />
+52-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+53        </activity>
+54        <activity
+54-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:47:9-53:20
+55            android:name="com.example.lifestyle_management.CurrentDatePage"
+55-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:48:13-44
+56            android:exported="false" >
+56-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:49:13-37
+57            <meta-data
+57-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+58                android:name="android.app.lib_name"
+58-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+59                android:value="" />
+59-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+60        </activity>
+61        <activity
+61-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:54:9-60:20
+62            android:name="com.example.lifestyle_management.EditBreaksPage"
+62-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:55:13-43
+63            android:exported="false" >
+63-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:56:13-37
+64            <meta-data
+64-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+65                android:name="android.app.lib_name"
+65-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+66                android:value="" />
+66-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+67        </activity>
+68        <activity
+68-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:61:9-67:20
+69            android:name="com.example.lifestyle_management.LandingPage"
+69-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:62:13-40
+70            android:exported="false" >
+70-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:63:13-37
+71            <meta-data
+71-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+72                android:name="android.app.lib_name"
+72-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+73                android:value="" />
+73-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+74        </activity>
+75        <activity
+75-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:68:9-71:60
+76            android:name="com.example.lifestyle_management.ui.login.LoginActivity"
+76-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:69:13-51
+77            android:exported="false"
+77-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:70:13-37
+78            android:label="@string/title_activity_login" />
+78-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:71:13-57
+79        <activity
+79-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:72:9-78:20
+80            android:name="com.example.lifestyle_management.CreateAccount"
+80-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:73:13-42
+81            android:exported="false" >
+81-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:74:13-37
+82            <meta-data
+82-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+83                android:name="android.app.lib_name"
+83-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+84                android:value="" />
+84-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+85        </activity>
+86        <activity
+86-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:79:9-91:20
+87            android:name="com.example.lifestyle_management.MainActivity"
+87-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:80:13-41
+88            android:exported="true" >
+88-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:81:13-36
+89            <intent-filter>
+89-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:82:13-86:29
+90                <action android:name="android.intent.action.MAIN" />
+90-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:83:17-69
+90-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:83:25-66
+91
+92                <category android:name="android.intent.category.LAUNCHER" />
+92-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:85:17-77
+92-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:85:27-74
+93            </intent-filter>
+94
+95            <meta-data
+95-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:22:13-24:36
+96                android:name="android.app.lib_name"
+96-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:23:17-52
+97                android:value="" />
+97-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:24:17-33
+98        </activity>
+99
+100        <receiver android:name="com.example.lifestyle_management.AlarmBroadcast" />
+100-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:93:9-51
+100-->C:\Users\sree1159\Documents\Life-style-management\03-prototype-lifestyle_management\Lifestyle_Management\Lifestyle_Management\app\src\main\AndroidManifest.xml:93:19-49
+101
+102        <provider
+102-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+103            android:name="androidx.startup.InitializationProvider"
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+104            android:authorities="com.example.lifestyle_management.androidx-startup"
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+105            android:exported="false" >
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+106            <meta-data
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+107                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+108                android:value="androidx.startup" />
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sree1159\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+109            <meta-data
+109-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sree1159\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+110                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+110-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sree1159\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+111                android:value="androidx.startup" />
+111-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sree1159\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+112        </provider>
+113    </application>
+114
+115</manifest>
